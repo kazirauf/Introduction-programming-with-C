@@ -7,3 +7,4 @@ int main(){
     char name = 'k';
     printf("%c", name);
 }
+
